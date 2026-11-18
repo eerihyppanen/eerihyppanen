@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eeri Hyppänen</h1>
 <h3 align="center">Software Engineering student from LUT University</h3>
 
-- 👨‍💻 All of my projects are available at [https://eerihyppanen.github.io/codespaces-portfolio/](https://eerihyppanen.github.io/codespaces-portfolio/)
+- 👨‍💻 All of my projects are available at [https://eerihyppanen.github.io/portfolio/](https://eerihyppanen.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
